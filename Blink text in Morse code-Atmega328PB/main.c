@@ -113,7 +113,7 @@ void blinkString(const char * someString){
 int main (void)
 {
 	board_init();
-	blinkString("Sandro Jijavadze 819819553");
+	blinkString("Some arbitrary text");
 
 	
 }
